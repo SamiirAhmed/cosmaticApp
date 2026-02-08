@@ -1,0 +1,9 @@
+﻿.dart_tool/
+.pub/
+.pub-cache/
+build/
+android/.gradle/
+android/local.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+*.log
