@@ -1,0 +1,32 @@
+﻿Analyzing Samiir...                                             
+
+warning - Unused import: 'screens/auth/splash_screen.dart' - lib\main.dart:4:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\auth\forgot_password_screen.dart:151:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product\home_screen.dart:147:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product\home_screen.dart:166:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product\home_screen.dart:201:47 - deprecated_member_use
+  error - The class 'EdgeInsets' doesn't have a constant constructor 'bottom' - lib\screens\product\payments_screen.dart:129:34 - const_with_undefined_constructor
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product\product_detail_screen.dart:63:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product\product_detail_screen.dart:80:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product\product_detail_screen.dart:175:48 - deprecated_member_use
+
+flutter : 9 issues 
+found. (ran in 1.8s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+analysis.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (9 issue   
+ s found. (ran in    
+ 1.8s):String) [    
+], RemoteExcepti    
+on
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
